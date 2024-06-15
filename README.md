@@ -9,4 +9,4 @@ Alberto Aigner's feedback for a couple of errors
 
 Summary
 
-First you import libraries and dependencies, load data from the csv file, check the data type to ensure the data is numeric and not an object or a string, Split the data into training and testing set,  normalize the data by using StandardScaler, create a Linear regression model and predict accuracy score, then create a Random forest classifier model and predict accuracy score, and finally compare to determine the more accurate model.
+First, you import libraries and dependencies, load data from the csv file, check the data type to ensure the data is numeric and not an object or a string, Split the data into training and testing set,  normalize the data by using StandardScaler, create a Linear regression model and predict accuracy score, then create a Random forest classifier model and predict accuracy score, and finally compare to determine the more accurate model.
